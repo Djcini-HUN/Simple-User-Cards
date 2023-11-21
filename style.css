@@ -73,5 +73,7 @@ h4{
         display: grid;
         justify-content: center;
         align-items: center;
+        margin-block: 1.5rem;
+        margin-bottom: 36rem;
     }
 }
